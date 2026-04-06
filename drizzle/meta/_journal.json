@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1768536612304,
+      "tag": "0000_young_makkari",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1768921765224,
+      "tag": "0001_lying_nighthawk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1768940537268,
+      "tag": "0002_gorgeous_kid_colt",
+      "breakpoints": true
+    }
+  ]
+}
